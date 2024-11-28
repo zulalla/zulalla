@@ -8,8 +8,6 @@
 <a href="mailto:coderlawyerzll@gmail.com"><img src="https://img.icons8.com/material-rounded/36/0000FF/new-post.png"/></a>
 
 
-![Kvtf](https://github.com/hilalkrglmz/hilalkrglmz/assets/140657703/72c54015-e667-47c3-8a6d-0042a386ca67)<br>
-
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
