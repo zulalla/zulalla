@@ -4,7 +4,7 @@
 🎈 I'm a dedicated learner in the area of becoming a professional in software development and currently focusing on React and Front-End Technologies.<br><br>
 🎈 I'm always open to collaboration and capable of working harmoniously with a team.<br><br>
 📧 You can contact with me anytime you want. <br><br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=cc3887&width=1200&height=60&lines=📫+How+to+reach+me:)  <br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=187b1b&width=1200&height=60&lines=📫+How+to+reach+me:)  <br>
 <a href="mailto:coderlawyerzll@gmail.com"><img src="https://img.icons8.com/material-rounded/36/0000FF/new-post.png"/></a>
 
 
