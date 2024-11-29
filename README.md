@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&center=true&duration=9000&pause=1500&color=cc3887&width=900&height=90&lines=+Welcome+to+my+Github+Profile+✨) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&center=true&duration=9000&pause=1500&color=187b1b&width=900&height=90&lines=+Welcome+to+my+Github+Profile+✨) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&duration=8000&pause=400&center=true&&color=cc3887&width=750&height=60&lines=💫+I'm+Zülal) <br> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&duration=8000&pause=400&center=true&&color=187b1b&width=750&height=60&lines=💫+I'm+Zülal) <br> 
 🎈 I'm a dedicated learner in the area of becoming a professional in software development and currently focusing on React and Front-End Technologies.<br><br>
 🎈 I'm always open to collaboration and capable of working harmoniously with a team.<br><br>
 📧 You can contact with me anytime you want. <br><br>
